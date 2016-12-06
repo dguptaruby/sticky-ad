@@ -1,6 +1,6 @@
 #Project - Sticky, Anchor ads
 
-The project is, through a combination of JS and CSS, create the following two effects on ad units in a page (inside a *<div/>*).
+The project is, through a combination of JS and CSS, create the following two effects on ad units in a page (inside a ```html <div/>```).
 
 ###Sticky ads (Phase 1)
 In order to improve viewability and ad performance, some publishers may choose to implement their ad units as “sticky ads.” A sticky ad is a persistent/fixed ad unit that stays visible while the user scrolls content on the page up or down.
