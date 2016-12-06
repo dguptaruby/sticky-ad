@@ -9,4 +9,4 @@ In order to improve viewability and ad performance, some publishers may choose t
 Anchor/overlay ads are mobile ads that stick to the edge of the user's screen and are easily dismissible.
 
 ###Notes:
-We usually don’t have access to the full HTML of the page, so we need the tool to be as simple as possible to use, ideally we should only ask the website owner to add a few lines of code to the <head/> section.
+We usually don’t have access to the full HTML of the page, so we need the tool to be as simple as possible to use, ideally we should only ask the website owner to add a few lines of code to the ```html <head/>``` section.
