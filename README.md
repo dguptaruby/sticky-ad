@@ -13,15 +13,15 @@ We usually don’t have access to the full HTML of the page, so we need the tool
 
 
 Installation steps:
-1) On the ```html<head> section of the page on which the ad is going to be visible we have to add this script tag:
+1) On the ```html<head>``` section of the page on which the ad is going to be visible we have to add this script tag:
   
-<script type="text/javascript" id="scriptForAds" src="https://stick-ad.herokuapp.com/assets/main.js" data-width='500px' data-height='500px' div-id='data'></script>
+```html <script type="text/javascript" id="scriptForAds" src="https://stick-ad.herokuapp.com/assets/main.js" data-width='500px' data-height='500px' div-id='data'></script>```
 
-2) Here value of div-id will be the id of the <div/> tag in which we want to show the ad.
+2) Here value of div-id will be the id of the ```html <div/>``` tag in which we want to show the ad.
 
-3) Here value of div-width will be the width of the <div/> tag in which we want to show the ad.
+3) Here value of div-width will be the width of the ```html <div/>``` tag in which we want to show the ad.
 
-4) Here value of div- height be the height of the <div/> tag in which we want to show the ad.
+4) Here value of div- height be the height of the ```html <div/>``` tag in which we want to show the ad.
 
 The demo of this script is currently running live on heroku server which can be accessed through https://stick-ad.herokuapp.com/.
 
